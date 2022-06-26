@@ -1,0 +1,31 @@
+/* this is used to add comments in css.
+This is the css part where one change will apply to whole (must be written in #head) -->
+<!-- hr applies to all 4 sides, we have to change the each or just add none and make top to dotted -->
+<!-- background-color: red; not applied coz no height:>not applicable */
+body{
+background-color: #3D84A8;
+} 
+h1{
+    letter-spacing: 3px;
+    color: #DF7861;
+}
+h3{
+    text-decoration:  underline;
+    text-decoration-style: dashed;
+    color: rgb(182, 205, 92);
+}
+h4{
+    text-decoration:  underline;
+    text-decoration-style: dashed;
+    color:#6106eaa1;
+}
+
+hr{
+           
+    border-style: none ;
+    border-top-style: dotted; 
+    border-color:darkgray ;
+    border-width: 7px;
+    width:5%;         
+    
+    } 
