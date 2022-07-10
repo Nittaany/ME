@@ -1,0 +1,185 @@
+body{
+    font-family: 'Itim', cursive;
+    font-size: larger;
+    text-align: center;
+}
+p{
+    color: #8a8154;
+
+}
+
+#title{
+    background-color: #d3d2d5;
+    padding-bottom: 5%;
+}
+
+h1{
+    color: #cfac15;
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 5.1rem;
+}
+
+h3{
+    color: #a9ae77;
+    font-weight:900;
+}
+
+h4{
+    font-family: 'Splash', cursive; 
+    color: #a9ae77;
+    margin-top: 1.25rem;
+}
+
+h5{
+    text-align: center;
+    padding: 5% 10% 4%;
+    color: #d7cea1;
+}
+
+.navbar-brand{
+    font-family: 'Itim', cursive;
+    font-size: 3.5rem;
+    font-weight: bolder;
+}
+.nav-item{
+    padding: 1.7rem;
+}
+
+.row{
+    text-align: center;
+    padding-top: 4% ;
+}
+
+.line-ii {
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: xx-large;
+    padding-bottom: 3rem;
+}
+.line-iii{
+    font-family: 'Satisfy', cursive;
+    font-size: 2rem;
+    
+}
+.now{
+    text-decoration:underline;
+}
+.dwnld-btn{
+    margin: 2% 1rem 4rem;
+}
+
+
+.tit-img{
+    height:480px;
+    width: 640px;
+    transform: rotate(20deg);
+    position: absolute;
+    right: 5%;
+    bottom: 7.3%;
+}
+
+#features{
+    padding: 6% 12%;
+    background-color: #fff;
+    position: relative;
+}
+.carousel-item{
+    margin-bottom: 90px;
+    padding: 7% 15%;
+}
+.test-name{
+    font-size: smaller;
+}
+
+
+#testimonial{
+    text-align: center;
+    background-color: #d3d2d5;
+    color: #a9ae77;
+}
+
+#press{
+    text-align: center;
+    background-color: #d3d2d5;
+    padding: 2.5rem;
+}
+.press-logo{
+    width: 11%;
+    margin: 2em;
+}
+.price-head , #pricing{
+    padding: 4% 12% 1.2%;
+}
+
+#dest-plan{
+    text-align: center;
+    background-color:#d3d2d5 ;
+    padding: 5% 14% 7%;
+}
+.pick-your{
+    font-size: 4rem;
+    margin-bottom: 3rem;
+}
+.b-d-link{
+    text-decoration: none;
+}
+.b-d:hover{
+    color:red;
+}
+@media (max-width:850px) and (min-width:650px){
+    .p-y{
+        font-size: 3rem;
+        margin-bottom: 3rem;
+    }
+    .b-d{
+        font-size: 3.9rem;
+    }
+}
+@media(max-width:650px){
+    .p-y{
+        font-size: 2rem;
+        margin-bottom: 3rem;
+    }
+    .b-d{
+        font-size: 2.7rem;
+    }
+}
+
+
+@media (max-width:1380px) and (min-width:1070px){
+    .tit-img{
+        height: 380px;
+        width: 460px;
+        position: absolute;
+        top: 30%;
+    }
+}
+@media (max-width:1070px){
+    .tit-img{
+        height:400px;
+        width:460px;
+        position: static;
+        margin-top: .2rem;
+        transform: rotate(0);
+    }
+}
+
+
+.and-dwn{
+    background-color:#BAB0B9 ;
+}
+.ios-dwn{
+    background-color: #C7B2AD;
+}
+.pl-implementation{
+    padding: 6% 5% 0;
+    font-family: 'Satisfy', cursive;
+    font-size: 2.5rem;
+}
+
+.manager{
+    color: rgb(215, 214, 199);
+}
+.contact-logo{
+    color: rgb(50, 47, 47);
+    padding: 1.1rem .65rem 2rem;
+}
