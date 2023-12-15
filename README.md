@@ -17,3 +17,7 @@
 ## Purpose
 Representative of my initial steps in web development. A basic yet personal site showcasing my interests.
 
+
+## Feel free to reach out & [Connect](https://www.linkedin.com/in/satyam-c/)
+
+## Explore. Engage. Evolve.
